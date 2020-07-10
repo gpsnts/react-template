@@ -1,2 +1,4 @@
-# react-template
-React app template (without bloat)
+## React template
+
+## TODO:
+* TypeScript version (or only)

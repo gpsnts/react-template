@@ -1,0 +1,9 @@
+h1 {
+  background-color: yellow;
+  color: red;
+
+  @media screen and (min-width: 500px) {
+    background-color: blue;
+  color: purple;
+  }
+}
